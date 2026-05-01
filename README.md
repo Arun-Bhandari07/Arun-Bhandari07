@@ -9,40 +9,24 @@ My approach is simple: **learn by building, refine by doing, and scale with expe
 
 ## 🧭 About Me
 
-- Full Stack Developer with a strong backend focus
-- Experienced in building REST APIs, authentication systems, and scalable services
-- Comfortable working across the stack — from database design to frontend UI
-- Prefer clean architecture, maintainable code, and real-world problem solving
-- Currently focused on improving system design and production-ready applications
+- Full Stack Developer with a strong backend focus  
+- Experienced in building REST APIs, authentication systems, and scalable services  
+- Comfortable working across the stack — from database design to frontend UI  
+- Prefer clean architecture, maintainable code, and real-world problem solving  
+- Focused on building production-ready applications  
 
 ---
 
 ## 🚀 TechStack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,docker" />
+</p>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css" />
+</p>
 
 ---
-
-## 📌 What I Focus On
-
-- Building real-world backend systems (authentication, payments, APIs)
-- Writing clean, maintainable, and scalable code
-- Understanding how systems behave in production
-- Improving performance and architecture over time
-
----
-
 
 > "I don’t just learn technologies — I use them to build things that work."
